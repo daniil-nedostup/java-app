@@ -1,2 +1,2 @@
 server.py
-setup.pu
+setup.py
